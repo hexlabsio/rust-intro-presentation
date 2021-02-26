@@ -1,0 +1,21 @@
+{
+  "name": "rust-intro-presentation",
+  "version": "1.0.0",
+  "description": "rust intruction talk slided",
+  "main": "index.js",
+  "scripts": {
+    "start": "reveal-md presentation.md --theme solarized"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hexlabsio/rust-intro-presentation.git"
+  },
+  "author": "Richard Gibson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hexlabsio/rust-intro-presentation/issues"
+  },
+  "dependencies": {
+    "reveal-md": "^5.0.0"
+  }
+}
